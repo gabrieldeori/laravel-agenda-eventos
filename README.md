@@ -5,7 +5,7 @@ Aplicação para gerenciar usuários e eventos, ecrita
 - [Índice]()
 - [Links para projeto]()
 
-## Links
+## Links para projeto
 
 - [Link de outros "deploys" de projetos em Javascript](https://simple-case-study.vercel.app/)
 
